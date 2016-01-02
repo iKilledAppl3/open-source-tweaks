@@ -1,0 +1,10 @@
+Package: com.ikilledappl3.xenok
+Name: Xenok 
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Great things to come... Being innovative as possible! 
+Maintainer: iKilledAppl3 <ipodnewbee234@gmail.com>
+Author: iKilledAppl3 <ipodnewbee234@gmail.com>
+Section: Tweaks
+Version: 1.0-1
+Installed-Size: 1532

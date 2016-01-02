@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Home Screen (SpringBoard) </string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>NoPgDots</string>
+			<key>label</key>
+			<string>No Page Dots</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Folder Settings</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>SBFolders</string>
+			<key>label</key>
+			<string>Allow Nested Folders</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>SBFolders2</string>
+			<key>label</key>
+			<string>Pinch To Close </string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>SBFolders3</string>
+			<key>label</key>
+			<string>Use Dark Folders</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>SBFolders4</string>
+			<key>label</key>
+			<string>Disable Folder Background </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Enabling this will disable the backdrop blur and make it look like the iOS 7 Spotlight.</string>
+			<key>label</key>
+			<string>Spotlight Settings</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>SevenSpot</string>
+			<key>label</key>
+			<string>iOS 7 Spotlight </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>The spotlight is no more...</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>DisableSpot</string>
+			<key>label</key>
+			<string>Disable Spotlight</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disable the recent contacts in the switcher.</string>
+			<key>label</key>
+			<string>App Switcher (Multitasking):</string>
+		</dict>
+		<dict>
+			<key>PostNotifcation</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>SwitcherContacts</string>
+			<key>label</key>
+			<string>Hide Contacts in Switcher</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disable the blur of the home screen card view in the app switcher.</string>
+		</dict>
+		<dict>
+			<key>PostNotifcation</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>SBHomeSwchBlr</string>
+			<key>label</key>
+			<string>Home Card No Blur</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Hides the blur of the dock.</string>
+			<key>label</key>
+			<string>Dock:</string>
+		</dict>
+		<dict>
+			<key>PostNotifcation</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>DockImage</string>
+			<key>label</key>
+			<string>Hide Dock Background</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Some items require restarting SpringBoard.</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>label</key>
+			<string>Respring</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>SpringBoard Settings</string>
+</dict>
+</plist>

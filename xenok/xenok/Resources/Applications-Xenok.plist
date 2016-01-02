@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Safari</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>SafariTweak</string>
+			<key>label</key>
+			<string>Speed Up Browsing</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>SafariKeyboard</string>
+			<key>label</key>
+			<string>Black Keyboard</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>unlimitedTabsSafari</string>
+			<key>label</key>
+			<string>Unlimited Tabs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Take pictures with #NoFilter.</string>
+			<key>label</key>
+			<string>Camera</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>LECamenabled</string>
+			<key>label</key>
+			<string>Disable Live Effects</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Hickory dickory dock... The mouse stopped the clock.</string>
+			<key>label</key>
+			<string>Clock</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>NLCenabled</string>
+			<key>label</key>
+			<string>Unanimated Clock</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>This won't remove the album but will make no images appear to the recently deleted tab.</string>
+			<key>label</key>
+			<string>Photos</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>PLTweak</string>
+			<key>label</key>
+			<string>Disable Recently Deleted</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disable Voice Over Internet Protocol.</string>
+			<key>label</key>
+			<string>Facebook Messenger</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>FBMessPlus</string>
+			<key>label</key>
+			<string>Disable VOIP</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disable the photo sending limit.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>FBFotos</string>
+			<key>label</key>
+			<string>Send Unlimited Photos</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Hide trending searches.</string>
+			<key>label</key>
+			<string>App Store</string>
+		</dict>
+		<dict>
+			<key>PostNotifcation</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>HideTrendSearch</string>
+			<key>label</key>
+			<string>Hide Now Trending</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Play sound from YouTube videos while multitasking in other apps.</string>
+			<key>label</key>
+			<string>YouTube</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>UTubeBackAudio</string>
+			<key>label</key>
+			<string>Allow Background Audio</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disabling these is critical for jailbroken devices. (Can help prevent boot loops if these were triggered) </string>
+			<key>label</key>
+			<string>Settings (App):</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>softwareUpdatePrefs</string>
+			<key>label</key>
+			<string>Disable Update Tab</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>ResetPrefsDisabled</string>
+			<key>label</key>
+			<string>Disable Reset Tab</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Some items may require a Respring!</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>label</key>
+			<string>Restart SpringBoard </string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Applications</string>
+</dict>
+</plist>

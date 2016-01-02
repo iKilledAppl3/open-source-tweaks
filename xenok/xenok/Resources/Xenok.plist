@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+			<string>HBImageTableCell</string>
+			<key>icon</key>
+			<string>header</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>"Innovation distinguishes between a leader and a follower." - Steve Jobs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>ClockListController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Application Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>CCListController</string>
+			<key>isContoller</key>
+			<true/>
+			<key>label</key>
+			<string>Control Center Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>XCreditsListController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Credits &amp; Contact</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>iPodSettingsListController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Extras</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>ShowCaseListController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Lockscreen </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>MobileCameraListController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Notification Center</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>SpringBoardListController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>SpringBoard</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Please consider donating!
+(email is in the contact section if needed)</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>donate</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>label</key>
+			<string>Buy Me A Tea!</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Xenok</string>
+</dict>
+</plist>

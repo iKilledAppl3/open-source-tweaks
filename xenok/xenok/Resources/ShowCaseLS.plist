@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Never be locked out from entering your passcode ever again! (critical for jailbroken devices)</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>ULSPass</string>
+			<key>label</key>
+			<string>Unlimited Passcode Attempts</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Hide the grabbers on the Lockscreen.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>LSGrabbers</string>
+			<key>label</key>
+			<string>Hide CC/NC Grabbers</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>LSCamGrab</string>
+			<key>label</key>
+			<string>Hide Camera Grabber</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Disable the blur/tint on the lockscreen (great for older devices.)</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>LSBlur</string>
+			<key>label</key>
+			<string>Disable LS Blur/Tint</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Show the status bar clock on the Lockscreen! (For best appearance hide the NC/CC Grabbers)</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>LStatusClock</string>
+			<key>label</key>
+			<string>Show Statusbar Clock</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Hide your date and time on the lockscreen.</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>LSTimeDate</string>
+			<key>label</key>
+			<string>Hide Date &amp; Time</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Hide the slide to unlock text for a minimalistic look.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>LSChevron</string>
+			<key>label</key>
+			<string>Hide Slide to Unlock</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Apply a custom slide to unlock text. (A respring is needed)</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>key</key>
+			<string>CustomLSSliderText</string>
+			<key>label</key>
+			<string>Custom Slider Text</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ikilledappl3.xenok-changed</string>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>detail</key>
+			<string>PSDetailCell</string>
+			<key>key</key>
+			<string>CustomLSSlider</string>
+			<key>label</key>
+			<string>Slider Text:</string>
+			<key>placeholder</key>
+			<string>enter your custom text here</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>save</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Save Text</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>This will restart SpringBoard!</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>defaults</key>
+			<string>com.ikilledappl3.xenok</string>
+			<key>label</key>
+			<string>Apply Changes</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Lockscreen Settings</string>
+</dict>
+</plist>

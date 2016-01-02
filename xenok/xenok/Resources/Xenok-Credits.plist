@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>label</key>
+      <string>Have issues? Contact:</string>
+    </dict>
+    <dict>
+      <key>action</key>
+      <string>followMe:</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>icon</key>
+      <string>twitter.png</string>
+      <key>label</key>
+      <string>@iKilledAppl3</string>
+    </dict>
+    <dict>
+      <key>action</key>
+      <string>mailto</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>icon</key>
+      <string>mail.png</string>
+      <key>label</key>
+      <string>Email iKilledAppl3</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>Special thanks to @AllTim3H4ckers (Twitter) for some code (for enabling/disabling the tweak) from his tweaks! 😁
+
+And thanks to my good friend Alex for testing Xenok on his iPhone 5s!
+
+Also a very special thanks to HASHBANG Productions @hbangws (Twitter) for their awesome open-source headers!</string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>label</key>
+      <string></string>
+    </dict>
+    <dict>
+      <key>cell</key>
+      <string>PSFooterTextCell</string>
+      <key>label</key>
+      <string>© 2015 iKilledAppl3 &amp; ToxicAppl3 Inc.</string>
+    </dict>
+  </array>
+  <key>title</key>
+  <string>Credits</string>
+</dict>
+</plist>
