@@ -16,7 +16,7 @@ I know Xenok's code is bad I have improved over time... :P
 
 #License
 
-Copyright [2015-2016] [iKilledAppl3 & ToxicAppl3 Inc.]
+Copyright 2015-2016 iKilledAppl3 & ToxicAppl3 Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
