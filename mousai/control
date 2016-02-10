@@ -1,0 +1,11 @@
+Package: com.ikilledappl3.mousai
+Name: Mousai
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Simplify your Apple Music Experience!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mousaiDp
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
+Conflicts: com.skylerk99.musicmod
+Version: 1.0.3

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Have issues? Contact:</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>followiKilledAppl3:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>@iKilledAppl3</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>mailto</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>mail.png</string>
+			<key>label</key>
+			<string>Email iKilledAppl3</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Donate</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>donateAmazon</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>Amazon</string>
+			<key>label</key>
+			<string>Donate (Amazon)</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>donatePayPal</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>PayPal</string>
+			<key>label</key>
+			<string>Donate (PayPal)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>defaults</key>
+			<string>com.ikilledappl3.mousai-settings</string>
+			<key>detail</key>
+			<string>BetaTestersListController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Beta Testers</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>I want to give a huge shoutout to FuzeDesigns for giving me the idea of creating this awesome tweak (originally just for hiding the connect tab)</string>
+			<key>label</key>
+			<string>THANKS TO THIS AWESOME PERSON!</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>followFuze:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>icon</key>
+			<string>twitter.png</string>
+			<key>label</key>
+			<string>Follow @byFuzeDesigns</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>defaults</key>
+			<string>com.ikilledappl3.mousai-settings</string>
+			<key>detail</key>
+			<string>TranslatorsListController</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Translators</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Special thanks to the users of Mousai and all who requested features to make this tweak better!</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Credits &amp; Support</string>
+</dict>
+</plist>

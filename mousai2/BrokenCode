@@ -1,0 +1,10 @@
+-(BOOL)isMiniPlayerVisisble{
+ if (alwaysShowMiniPlayer == YES)
+    {
+          return TRUE;
+    }
+           else
+    {
+          return %orig;
+    }
+}

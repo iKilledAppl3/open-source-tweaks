@@ -1,0 +1,13 @@
+Package: com.ikilledappl3.mousai2
+Name: Mousai2
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: This is your moment to simplify more than just Apple Music...
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, firmware (>= 9.0)
+Conflicts: com.ikilledappl3.mousai, com.skylerk99.musicmod
+Icon: file:///Library/Application Support/AppIconsM2/IconHeader/Mousai2IconHeader.png
+Version: 1.0-1
+Installed-Size: 6268

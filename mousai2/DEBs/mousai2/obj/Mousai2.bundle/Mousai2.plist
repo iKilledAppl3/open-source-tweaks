@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+			<string>HBImageTableCell</string>
+			<key>height</key>
+			<string>150</string>
+			<key>icon</key>
+			<string>Mousai2-Header</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>Mousai2AppleMusicListController</string>
+			<key>icon</key>
+			<string>/Library/Application Support/AppIconsM2/music.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>APPLE_MUSIC_SETTINGS</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>Mousai2PodcastsListController</string>
+			<key>icon</key>
+			<string>/Library/Application Support/AppIconsM2/podcasts.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>PODCASTS_SETTINGS</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>Mousai2PandoraListController</string>
+			<key>icon</key>
+			<string>/Library/Application Support/AppIconsM2/pandora.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>PANDORA_SETTINGS</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>Mousai2SpotifyListController</string>
+			<key>icon</key>
+			<string>/Library/Application Support/AppIconsM2/spotify.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>SPOTIFY_SETTINGS</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>Mousai2YTMusicListController</string>
+			<key>icon</key>
+			<string>/Library/Application Support/AppIconsM2/youtubemusic.png</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>YTMUSIC_SETTINGS</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>ABOUT_FOOTER_TEXT</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>Mousai2AboutListController</string>
+			<key>icon</key>
+			<string></string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>ABOUT_LABEL</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>COPYRIGHT_FOOTER</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>MOUSAI_2</string>
+</dict>
+</plist>
