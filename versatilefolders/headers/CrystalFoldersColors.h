@@ -1,6 +1,6 @@
 // Created on 8-19-15 //
 
-// © 2015 iKilledAppl3 all rights reserved //
+// © 2015 - 2016 iKilledAppl3 all rights reserved //
 
 // This header contains all color codes used for CrystalFolders //
 
