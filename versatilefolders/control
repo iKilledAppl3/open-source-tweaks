@@ -1,0 +1,10 @@
+Package: com.ikilledappl3.versatilefolders
+Name: Versatile Folders
+Depends: mobilesubstrate
+Version: 0.1
+Replaces: com.ikilledappl3.cryatalfolders
+Architecture: iphoneos-arm
+Description: Enhance those folders!
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
