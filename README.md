@@ -8,7 +8,7 @@
 Xenok
 Mousai(iOS 8.4)
 Mousai2(iOS 9+)
-VersatileFolders (a.k.a CrystalFolders) (iOS 7.x.x - 9.0.2)
+
 
 #IMPORTANT
 others can be found on the ToxicAppl3 Inc. Team Organization repo 
@@ -20,8 +20,6 @@ Mousai was a huge success so I decided to open source it so others can benefit f
 Mousai2 is also now open sourced due to the lack of me having the time and a a jailbroken device to compile it on and since I couldn't release it on BigBoss and it's home is mousai2.ikilledappl3.tk/ I figured why not let others have a shot in making other tweaks out of it. 
 For those who want to use a tweak that manages your music... Why not use MusicMod instead? 
 Mousai2 was also going to have a Spotify functionality but I didn't feel like making a competitor to BdaySpotify since that tweak deserves to have recoginiton. And the code for Spotify is commented but feel free to do whatever you want with the code just credit me! :)
-
-VersatileFolders (a.k.a CrystalFolders) was a tweak I would've had released it changes the folder icon image color but sadly iOS 9.3.3 broke the code and I can't seem to get it working! So here is the code do with it as you please!
 
 #License
 
