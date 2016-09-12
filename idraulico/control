@@ -1,0 +1,9 @@
+Package: com.ikilledappl3.idraulico
+Name: Idraulico
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disable the ads in Super Jungle World! (SMB1 re-skinned)
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks

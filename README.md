@@ -21,6 +21,8 @@ Mousai2 is also now open sourced due to the lack of me having the time and a a j
 For those who want to use a tweak that manages your music... Why not use MusicMod instead? 
 Mousai2 was also going to have a Spotify functionality but I didn't feel like making a competitor to BdaySpotify since that tweak deserves to have recoginiton. And the code for Spotify is commented but feel free to do whatever you want with the code just credit me! :)
 
+Idraulico is a tweak I created to get rid of annoying ads on the Super Jungle World Game.
+
 #License
 
 Copyright 2015-2016 iKilledAppl3 & ToxicAppl3 Inc.
