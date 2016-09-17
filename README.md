@@ -23,6 +23,8 @@ Mousai2 was also going to have a Spotify functionality but I didn't feel like ma
 
 Idraulico is a tweak I created to get rid of annoying ads on the Super Jungle World Game.
 
+BlurSpring a tweak that I planned on making but the code doesn't work so i open sourced it for fun :P I am too lazy to fix the code so here....
+
 #License
 
 Copyright 2015-2016 iKilledAppl3 & ToxicAppl3 Inc.

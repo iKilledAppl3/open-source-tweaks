@@ -1,0 +1,9 @@
+Package: com.ikilledappl3.blurspring
+Name: BlurSpring
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak that blurs the respring background.
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
