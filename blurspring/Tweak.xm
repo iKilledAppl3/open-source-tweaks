@@ -3,7 +3,8 @@
 
 //Currently doesn't work feel free to mess with it I was just messing with some code anyhow lol 
 //Maybe someone can make a full tweak IDK though 
-
+//It's badly coded so feel free to shame me 
+//I am not sure why I even tried this but ehh...
 
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
@@ -22,7 +23,7 @@
 - (CGImageRef)_createImageWithName:(NSString *)string scale:(CGFloat)scale displayHeight:(CGFloat)height;
 @end
 
-PUIProgressWindow *window = [[UIScreen mainScreen] bounds];
+PUIProgressWindow *window
 
 
 %hook PUIProgressWindow
@@ -41,7 +42,7 @@ blurEffect = [UIBlurEffect effectWithStyle:UIBlurEffectStyleDark];
 UIVisualEffectView *visualEffectView;
 visualEffectView = [[UIVisualEffectView alloc] initWithEffect:blurEffect];
 
-visualEffectView.frame = [[window] bounds];
+visualEffectView.frame = [[UIScreen mainScreen] bounds];
 	
 }
 
