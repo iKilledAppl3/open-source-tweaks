@@ -8,6 +8,8 @@
 Xenok
 Mousai(iOS 8.4)
 Mousai2(iOS 9+)
+Idraulico 
+BlurSpring
 
 
 #IMPORTANT
