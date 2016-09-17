@@ -11,6 +11,9 @@ Mousai2(iOS 9+)
 Idraulico 
 BlurSpring
 
+#MORE TWEAKS:
+Can be found here: https://github.com/ToxicAppl3Inc/toxicappl3inc.github.io/tree/master/repo/OpenSourceTweaks
+these are pretty basic tweaks :P
 
 #IMPORTANT
 others can be found on the ToxicAppl3 Inc. Team Organization repo 
