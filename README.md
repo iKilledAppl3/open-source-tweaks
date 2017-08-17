@@ -4,19 +4,18 @@
 
  To help those who want to learn how tweaks work or how I made mine.
 
-#TWEAKS:
+# TWEAKS:
 Xenok
 Mousai(iOS 8.4)
 Mousai2(iOS 9+)
 Idraulico 
 BlurSpring
 
-#MORE TWEAKS:
+# MORE TWEAKS:
 Can be found here: https://github.com/ToxicAppl3Inc/toxicappl3inc.github.io/tree/master/repo/OpenSourceTweaks
 these are pretty basic tweaks :P
 
-#IMPORTANT
-others can be found on the ToxicAppl3 Inc. Team Organization repo 
+Some of my other tweaks are all over my GitHub they are awesome too!
 
 I know Xenok's code is bad I have improved over time... :P 
 
@@ -30,9 +29,9 @@ Idraulico is a tweak I created to get rid of annoying ads on the Super Jungle Wo
 
 BlurSpring a tweak that I planned on making but the code doesn't work so i open sourced it for fun :P I am too lazy to fix the code so here....
 
-#License
+# License
 
-Copyright 2015-2016 iKilledAppl3 & ToxicAppl3 Inc.
+Copyright 2015-2017 iKilledAppl3 & ToxicAppl3 Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -48,5 +47,5 @@ limitations under the License.
 
 Please give credit to the original author if you use any code of the software that is open sourced through this repository.
 
-#ENJOY!
+# ENJOY!
 
